@@ -1,0 +1,5 @@
+{
+  "name": "NoisyGradient Generator",
+  "description": "A high-performance PWA for creating, customizing, and exporting resolution-independent noisy textured backgrounds as SVG or PNG.",
+  "requestFramePermissions": []
+}
